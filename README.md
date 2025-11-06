@@ -50,8 +50,3 @@ Hi, I'm **Muhammed Fayis K**—a passionate Full Stack Developer who loves build
 - Open to collaborating on interesting projects.
 
 ---
-
-<!-- animated banner suggestion -->
-<p align="center">
-  <img src="https://media.giphy.com/media/LmT6rEB6z1bqVybUts/giphy.gif" width="400"/>
-</p>

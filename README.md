@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I%27m+Muhammed+Fayis+K!;Full+Stack+Developer;Nodejs%2C+React,+and+More;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I%27m+Muhammed+Fayis+K!;Full+Stack+Developer;Nodejs%2C+React,+and+More;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /><br>
+  <h1>Welcome!</h1>
+</p>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" alt="Profile pic" style="border-radius: 50%;"/>

@@ -31,7 +31,7 @@ Hi, I'm **Muhammed Fayis K**—a passionate Full Stack Developer who loves build
 ### 📫 Connect With Me
 - <img src="https://skillicons.dev/icons?i=github" height="20"/> [fayiskooni](https://github.com/fayiskooni)
 - <img src="https://skillicons.dev/icons?i=linkedin" height="20"/> [LinkedIn](https://www.linkedin.com/in/muhammed-fayis-k-a40904361/)
-- <img src="https://skillicons.dev/icons?i=gmail" height="20"/> [fayiskooni@gmail.com](mailto:fayiskooni@gmail.com)
+- <img src="https://skillicons.dev/icons?i=gmail" height="20"/> [fayiskooni.dev@gmail.com](mailto:fayiskooni.dev@gmail.com)
 - <img src="https://skillicons.dev/icons?i=instagram" height="20"/> [Instagram](https://instagram.com/faayz_k)
 
 ---

@@ -1,4 +1,4 @@
-<h1 align="center">Muhammed Fayis K</h1>
+<h1 align="center">Muhammed Fayis K (Fayis Kooni)</h1>
 <h3 align="center">Full-Stack Developer — React · Next.js · Node.js · SaaS</h3>
 
 <p align="center">
@@ -9,53 +9,57 @@
 
 ---
 
-## About Me
+## 👋 About Fayis
 
-Full-Stack Developer focused on building production-ready web applications and SaaS platforms. I work across the entire stack — from database schema design to deployed frontend — with a focus on real-time systems, secure authentication, and AI-powered features.
+Fayis (Muhammed Fayis K), also known as Fayis K and Fayis Kooni, is a Full Stack Developer from Kerala, India.
+
+He specializes in building scalable SaaS platforms, real-time systems, and AI-powered web applications using React, Next.js, Node.js, and modern web technologies.
+
+🔗 Learn more: https://fayiskooni.xyz/who-is-fayis
 
 ---
 
 ## 🚀 Featured Projects
 
 ### [Echo — AI Customer Support SaaS](https://echo-saas-web.vercel.app)
-Multi-tenant B2B SaaS where businesses embed a customizable AI chat widget via a JS snippet supporting 3 embed types (HTML, React, Next.js). Features a RAG pipeline using Gemini text-embedding-004 generating 768-dimensional vectors, with full tenant data isolation by Clerk orgId.
+
+Multi-tenant B2B SaaS where businesses embed a customizable AI chat widget via a JS snippet supporting 3 embed types (HTML, React, Next.js). Features a RAG pipeline using Gemini embeddings with full tenant data isolation.
 
 `Next.js 15` `Convex` `Gemini` `Groq` `Clerk` `Stripe` `Vapi` `Turborepo` `TypeScript`
 
 ---
 
 ### [Real-Time Language Exchange Platform](https://livechat-videocallapp.onrender.com)
-Full-stack platform where users discover language partners and communicate via real-time text chat and video calls. Built with Stream Chat and Stream Video SDKs, HttpOnly JWT authentication, and TanStack React Query for server state caching.
 
-`React 19` `Node.js` `Express` `MongoDB` `Stream SDK` `JWT` `TanStack Query` `Zustand` `DaisyUI`
+Full-stack platform enabling users to connect via real-time chat and video. Built with Stream SDKs, secure HttpOnly JWT authentication, and efficient server-state management.
+
+`React 19` `Node.js` `Express` `MongoDB` `Stream SDK` `JWT` `TanStack Query` `Zustand`
 
 ---
 
 ### [Family Tree Generator](https://family-tree.fayiskooni.workers.dev)
-Genealogy platform managing 3 relationship types (members, marriages, parent-child) visualized as a pannable zoomable tree. Built on a 6-table normalized PostgreSQL schema, with a DAG rendered via ELK.js layered layout algorithm and React Flow.
 
-`React 19` `Node.js` `Express` `PostgreSQL` `React Flow` `ELK.js` `TanStack Query` `Shadcn UI`
+Genealogy platform with a normalized PostgreSQL schema and graph-based visualization using ELK.js and React Flow.
+
+`React 19` `Node.js` `Express` `PostgreSQL` `React Flow` `ELK.js`
 
 ---
 
 ### [Stock Market Dashboard](https://stock-tacker-app.vercel.app)
-Real-time stock tracking platform with TradingView widgets for live price charts and Finnhub API for stock search. Includes Inngest background jobs that use Gemini AI to send daily personalized email digests based on each user's watchlist.
 
-`Next.js 15` `TypeScript` `MongoDB` `Finnhub API` `TradingView` `Inngest` `Gemini` `Nodemailer`
+Real-time stock tracking app with TradingView charts and AI-powered personalized alerts using background jobs.
+
+`Next.js 15` `MongoDB` `Inngest` `Gemini` `TradingView` `Nodemailer`
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Shadcn UI, Radix UI, DaisyUI, Framer Motion
-
-**Backend:** Node.js, Express, REST APIs, WebSockets, Convex
-
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Shadcn UI
+**Backend:** Node.js, Express, REST APIs, WebSockets
 **Databases:** PostgreSQL, MongoDB
-
-**Auth & Infra:** JWT, Clerk, Vercel, Cloudflare Workers, Render
-
-**AI & Tools:** Gemini, Groq, RAG Pipelines, Stream SDK, Inngest, TanStack Query, Zustand
+**Auth & Infra:** JWT, Clerk, Vercel, Cloudflare Workers
+**AI & Tools:** Gemini, Groq, RAG Pipelines, Stream SDK, Inngest
 
 ---
 

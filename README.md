@@ -2,9 +2,9 @@
 <h3 align="center">Full-Stack Developer — React · Next.js · Node.js · SaaS</h3>
 
 <p align="center">
-  <a href="https://fayiskooni.xyz"><strong>🌐 Portfolio</strong></a> •
-  <a href="https://linkedin.com/in/muhammed-fayis-kooni">LinkedIn</a> •
-  <a href="mailto:fayiskooni@gmail.com">Email</a>
+  <a href="https://fayiskooni.xyz" target="_blank"><strong>🌐 Portfolio</strong></a> •
+  <a href="https://linkedin.com/in/muhammed-fayis-kooni" target="_blank">LinkedIn</a> •
+  <a href="mailto:fayiskooni@gmail.com" target="_blank">Email</a>
 </p>
 
 ---
